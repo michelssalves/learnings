@@ -1,0 +1,90 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+    width: 1370px;
+    height: 100px;
+    padding-top: 50PX;
+    text-align: center;
+}
+
+.menus{
+    width: 1370px;
+    height: 300px;
+    padding-top: 10PX;
+    text-align: center;
+  
+}
+.retangulo1{
+    width: 350px;
+    height: 25px;
+    margin-left: 100px;
+    float: left;
+    background-color: gray ;
+}
+.nome1{
+    width: 149px;
+    height: 25px;
+    margin-left: 200px;
+    float: left;
+    background-color: pink;
+    text-align: center;
+}
+.menu1{
+    width: 349px;
+    height: 275px;
+    float: left;
+    background-color: gray ;
+}
+.retangulo2{
+
+    width: 350px;
+    height: 25px;
+    margin-right: 100px;
+    float: right;
+    background-color: gray ;
+
+}.nome2{
+
+    width: 150px;
+    height: 25px;
+    float: right;
+    background-color: brown;
+    text-align: center;
+
+}
+.menu2{
+
+    width: 349px;
+    height: 275px;
+    float: right;
+    background-color: gray ;
+
+}
+.menudomeio{
+    position: absolute;
+    right: 505px;
+}
+.retangulo3{
+   
+    width: 350px;
+    height: 25px;
+    background-color: gray ;
+
+}.nome3{
+    width: 149px;
+    height: 25px;
+    margin-left: 200px;
+    background-color: red;
+}
+.menu3{
+    width: 349px;
+    height: 275px;
+    background-color: gray ;
+
+}

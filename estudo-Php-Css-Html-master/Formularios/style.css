@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(193, 209, 192);
+    margin:0;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    background-color: crimson;
+    text-transform: uppercase;
+}
+.div{
+    width: 120px;
+    height: 120px;
+    font-size: 40px;
+
+}
+.div2{
+    background-color: rgb(128, 54, 69); 
+    width: 100%;
+    font-size: 50px;
+   
+}
+.menu{
+    width: 121px;
+    height: 1000px;
+    float: left;
+    font-size: 50px;
+    position: fixed;
+
+}
+.conteudo1{ 
+    width: 500px;
+    height:300px;
+    background-color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.flutuante2{
+    position: absolute;
+    right: 150px;
+    top:195px;
+}
+.conteudo2{
+    width: 500px;
+    height:300px;
+    background-color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.conteudo3{
+    width: 500px;
+    height:300px;
+    background-color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.flutuante4{
+    position: absolute;
+    right: 150px;
+    top:535px;
+}
+.conteudo4{
+    width: 500px;
+    height:300px;
+    background-color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.icon{
+    width: 119px;
+    height:120px;
+
+}
+.texto{
+    width: 500px;
+    height:200px;
+    background-color: dodgerblue;
+    font-size: 20px;
+    color: darkred;
+    border: deeppink;
+    text-align: center;
+
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+
+}

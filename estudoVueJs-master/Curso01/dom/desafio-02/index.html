@@ -1,0 +1,18 @@
+<script src="https://unpkg.com/vue"></script>
+
+<div id="desafio">
+    <div>
+        <button @click="exibirAlerta">Exibir Alerta</button>
+    </div>
+    <div>
+        <input type="text" @keydown="alterarValor">
+        <p>{{valor}}</p>
+    </div>
+    <div>
+        <input type="text" @keydown.enter="alterarValor">
+        <p>{{valor}}</p>
+    </div>
+ 
+</div>
+
+<script src="app.js"></script>
